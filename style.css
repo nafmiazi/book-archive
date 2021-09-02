@@ -1,0 +1,29 @@
+/* Header scetion */
+header{
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.banner-section{
+    margin-top: 100px;
+}
+
+.banner-section h1{
+    background: rgba(0, 0, 0, 0.534);
+    border-radius: 10px;
+    color: gold;
+}
+
+/* Main section */
+.search-result-number{
+    color: rgb(8, 147, 189);
+}
+
+.books-card{
+    border: none;
+    box-shadow: 2px 2px 5px gray;
+}
